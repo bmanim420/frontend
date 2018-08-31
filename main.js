@@ -4,7 +4,7 @@
 function todoList() {
 	// store user value
 	var item    = document.getElementById('todoInput').value
-	var item1    = document.getElementById('todoInput').value
+	var item1    = document.getElementById('todoInput1').value
 	// create a text node from the user input
 	var text    = document.createTextNode(item)
 	var text1    = document.createTextNode(item1)
